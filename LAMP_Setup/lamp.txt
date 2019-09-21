@@ -1,18 +1,234 @@
 Script started on 2019-09-21 13:06:58+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo apt -get update
 [sudo] password for rithumaria: 
-E: Command line option 'g' [from -get] is not understood in combination with the other options.
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo apt update
-[33m0% [Working][0m            Hit:1 http://in.archive.ubuntu.com/ubuntu disco InRelease
-[33m0% [Waiting for headers] [Connecting to security.ubuntu.com][0m                                                            Hit:2 http://in.archive.ubuntu.com/ubuntu disco-updates InRelease
-[33m0% [Waiting for headers] [Connecting to security.ubuntu.com][0m                                                            Hit:3 http://in.archive.ubuntu.com/ubuntu disco-backports InRelease
-[33m                                                            0% [Connecting to security.ubuntu.com][0m                                      Hit:4 http://security.ubuntu.com/ubuntu disco-security InRelease
-[33m                                      0% [Working][0m[33m0% [Working][0m[33m0% [Working][0m[33m0% [Working][0m[33m20% [Working][0m             Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 3%Reading package lists... 3%Reading package lists... 7%Reading package lists... 7%Reading package lists... 9%Reading package lists... 9%Reading package lists... 9%Reading package lists... 9%Reading package lists... 9%Reading package lists... 9%Reading package lists... 9%Reading package lists... 9%Reading package lists... 40%Reading package lists... 40%Reading package lists... 40%Reading package lists... 70%Reading package lists... 70%Reading package lists... 87%Reading package lists... 87%Reading package lists... 87%Reading package lists... 87%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 89%Reading package lists... 89%Reading package lists... 90%Reading package lists... 90%Reading package lists... 91%Reading package lists... 91%Reading package lists... 91%Reading package lists... 91%Reading package lists... 91%Reading package lists... 91%Reading package lists... 92%Reading package lists... 92%Reading package lists... 93%Reading package lists... 93%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 95%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 97%Reading package lists... 97%Reading package lists... 98%Reading package lists... 98%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
+[33m
+0% [Working][0m
+            
+Hit:1 http://in.archive.ubuntu.com/ubuntu disco InRelease
+[33m
+0% [Waiting for headers] [Connecting to security.ubuntu.com][0m
+                                                            
+Hit:2 http://in.archive.ubuntu.com/ubuntu disco-updates InRelease
+[33m
+0% [Waiting for headers] [Connecting to security.ubuntu.com][0m
+                                                            
+Hit:3 http://in.archive.ubuntu.com/ubuntu disco-backports InRelease
+[33m
+                                                            
+0% [Connecting to security.ubuntu.com][0m
+                                      
+Hit:4 http://security.ubuntu.com/ubuntu disco-security InRelease
+[33m
+                                      
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+0% [Working][0m[33m
+20% [Working][0m
+             
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 3%
+
+Reading package lists... 3%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 9%
+
+Reading package lists... 40%
+
+Reading package lists... 40%
+
+Reading package lists... 40%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 89%
+
+Reading package lists... 89%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 91%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 93%
+
+Reading package lists... 93%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
 249 packages can be upgraded. Run 'apt list --upgradable' to see them.
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ apt list --upgradable
-Listing... 0%Listing... 0%Listing... 0%Listing... Done
+
+Listing... 0%
+
+Listing... 0%
+
+Listing... 0%
+
+Listing... Done
+
 [32mapparmor[0m/disco-updates 2.13.2-9ubuntu6.1 amd64 [upgradable from: 2.13.2-9ubuntu6]
 [32mapport-gtk[0m/disco-updates,disco-updates,disco-security,disco-security 2.20.10-0ubuntu27.1 all [upgradable from: 2.20.10-0ubuntu27]
 [32mapport[0m/disco-updates,disco-updates,disco-security,disco-security 2.20.10-0ubuntu27.1 all [upgradable from: 2.20.10-0ubuntu27]
@@ -263,9 +479,31 @@ E: Command line option 'g' [from -get] is not understood in combination with the
 [32myaru-theme-icon[0m/disco-updates,disco-updates 19.04.3 all [upgradable from: 19.04.2]
 [32myaru-theme-sound[0m/disco-updates,disco-updates 19.04.3 all [upgradable from: 19.04.2]
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo apt install apache2
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
 The following additional packages will be installed:
   apache2-bin apache2-data apache2-utils libapr1 libaprutil1
   libaprutil1-dbd-sqlite3 libaprutil1-ldap liblua5.2-0
@@ -278,19 +516,89 @@ The following NEW packages will be installed:
 Need to get 1,803 kB of archives.
 After this operation, 7,732 kB of additional disk space will be used.
 Do you want to continue? [Y/n] y
-[33m0% [Working][0m            Get:1 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libapr1 amd64 1.6.5-1 [91.6 kB]
-[33m0% [1 libapr1 2,054 B/91.6 kB 2%][0m[33m                                 6% [Working][0m            Get:2 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaprutil1 amd64 1.6.1-3build1 [84.7 kB]
-[33m6% [2 libaprutil1 2,054 B/84.7 kB 2%][0m[33m                                     12% [Waiting for headers][0m                         Get:3 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaprutil1-dbd-sqlite3 amd64 1.6.1-3build1 [10.6 kB]
-[33m13% [3 libaprutil1-dbd-sqlite3 10.6 kB/10.6 kB 100%][0m[33m                                                    15% [Waiting for headers][0m                         Get:4 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaprutil1-ldap amd64 1.6.1-3build1 [8,692 B]
-[33m15% [4 libaprutil1-ldap 8,675 B/8,692 B 100%][0m[33m                                             18% [Waiting for headers][0m                         Get:5 http://in.archive.ubuntu.com/ubuntu disco/main amd64 liblua5.2-0 amd64 5.2.4-1.1build2 [106 kB]
-[33m20% [5 liblua5.2-0 52.7 kB/106 kB 50%][0m[33m                                      24% [Waiting for headers][0m                         Get:6 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2-bin amd64 2.4.38-2ubuntu2.3 [1,155 kB]
-[33m26% [6 apache2-bin 24.8 kB/1,155 kB 2%][0m[33m75% [6 apache2-bin 1,135 kB/1,155 kB 98%][0m[33m                                         78% [Waiting for headers][0m                         Get:7 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2-data all 2.4.38-2ubuntu2.3 [164 kB]
-[33m78% [7 apache2-data 0 B/164 kB 0%][0m[33m                                  87% [Working][0m             Get:8 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2-utils amd64 2.4.38-2ubuntu2.3 [86.8 kB]
-[33m87% [8 apache2-utils 750 B/86.8 kB 1%][0m[33m                                      94% [Waiting for headers][0m                         Get:9 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2 amd64 2.4.38-2ubuntu2.3 [95.5 kB]
-[33m94% [9 apache2 12.2 kB/95.5 kB 13%][0m[33m                                   100% [Working][0m              Fetched 1,803 kB in 2s (1,196 kB/s)
+[33m
+0% [Working][0m
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libapr1 amd64 1.6.5-1 [91.6 kB]
+[33m
+0% [1 libapr1 2,054 B/91.6 kB 2%][0m[33m
+                                 
+6% [Working][0m
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaprutil1 amd64 1.6.1-3build1 [84.7 kB]
+[33m
+6% [2 libaprutil1 2,054 B/84.7 kB 2%][0m[33m
+                                     
+12% [Waiting for headers][0m
+                         
+Get:3 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaprutil1-dbd-sqlite3 amd64 1.6.1-3build1 [10.6 kB]
+[33m
+13% [3 libaprutil1-dbd-sqlite3 10.6 kB/10.6 kB 100%][0m[33m
+                                                    
+15% [Waiting for headers][0m
+                         
+Get:4 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaprutil1-ldap amd64 1.6.1-3build1 [8,692 B]
+[33m
+15% [4 libaprutil1-ldap 8,675 B/8,692 B 100%][0m[33m
+                                             
+18% [Waiting for headers][0m
+                         
+Get:5 http://in.archive.ubuntu.com/ubuntu disco/main amd64 liblua5.2-0 amd64 5.2.4-1.1build2 [106 kB]
+[33m
+20% [5 liblua5.2-0 52.7 kB/106 kB 50%][0m[33m
+                                      
+24% [Waiting for headers][0m
+                         
+Get:6 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2-bin amd64 2.4.38-2ubuntu2.3 [1,155 kB]
+[33m
+26% [6 apache2-bin 24.8 kB/1,155 kB 2%][0m[33m
+75% [6 apache2-bin 1,135 kB/1,155 kB 98%][0m[33m
+                                         
+78% [Waiting for headers][0m
+                         
+Get:7 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2-data all 2.4.38-2ubuntu2.3 [164 kB]
+[33m
+78% [7 apache2-data 0 B/164 kB 0%][0m[33m
+                                  
+87% [Working][0m
+             
+Get:8 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2-utils amd64 2.4.38-2ubuntu2.3 [86.8 kB]
+[33m
+87% [8 apache2-utils 750 B/86.8 kB 1%][0m[33m
+                                      
+94% [Waiting for headers][0m
+                         
+Get:9 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 apache2 amd64 2.4.38-2ubuntu2.3 [95.5 kB]
+[33m
+94% [9 apache2 12.2 kB/95.5 kB 13%][0m[33m
+                                   
+100% [Working][0m
+              
+Fetched 1,803 kB in 2s (1,196 kB/s)
 
 7[0;23r8[1ASelecting previously unselected package libapr1:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 173454 files and directories currently installed.)
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 173454 files and directories currently installed.)
 Preparing to unpack .../0-libapr1_1.6.5-1_amd64.deb ...
 7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  3%][49m[39m [#.........................................................] 8Unpacking libapr1:amd64 (1.6.5-1) ...
 7[24;0f[42m[30mProgress: [  5%][49m[39m [###.......................................................] 8Selecting previously unselected package libaprutil1:amd64.
@@ -378,9 +686,31 @@ sudo: allow: command not found
 Rules updated
 Rules updated (v6)
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo apt install mysql-server
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
 The following additional packages will be installed:
   libaio1 libevent-core-2.1-6 libhtml-template-perl libmecab2 mysql-client-5.7
   mysql-client-core-5.7 mysql-server-5.7 mysql-server-core-5.7
@@ -393,20 +723,104 @@ The following NEW packages will be installed:
 Need to get 20.9 MB of archives.
 After this operation, 162 MB of additional disk space will be used.
 Do you want to continue? [Y/n] y
-[33m0% [Working][0m            Get:1 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaio1 amd64 0.3.111-1 [7,224 B]
-[33m0% [1 libaio1 7,224 B/7,224 B 100%][0m[33m                                   2% [Working][0m[33m2% [Waiting for headers][0m                        Get:2 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-client-core-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [7,106 kB]
-[33m2% [2 mysql-client-core-5.7 11.3 kB/7,106 kB 0%][0m[33m5% [2 mysql-client-core-5.7 795 kB/7,106 kB 11%][0m[33m9% [2 mysql-client-core-5.7 1,871 kB/7,106 kB 26%][0m[33m14% [2 mysql-client-core-5.7 3,190 kB/7,106 kB 45%][0m[33m18% [2 mysql-client-core-5.7 4,120 kB/7,106 kB 58%][0m[33m22% [2 mysql-client-core-5.7 5,187 kB/7,106 kB 73%][0m[33m26% [2 mysql-client-core-5.7 6,230 kB/7,106 kB 88%][0m[33m                                                   32% [Waiting for headers][0m                         Get:3 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-client-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [2,307 kB]
-[33m32% [3 mysql-client-5.7 29.3 kB/2,307 kB 1%][0m[33m35% [3 mysql-client-5.7 833 kB/2,307 kB 36%][0m[33m38% [3 mysql-client-5.7 1,707 kB/2,307 kB 74%][0m[33m                                              43% [Working][0m             Get:4 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-server-core-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [7,863 kB]
-[33m43% [4 mysql-server-core-5.7 0 B/7,863 kB 0%][0m[33m47% [4 mysql-server-core-5.7 1,100 kB/7,863 kB 14%]               1,706 kB/s 6s[0m[33m51% [4 mysql-server-core-5.7 2,150 kB/7,863 kB 27%]               1,706 kB/s 5s[0m[33m53% [4 mysql-server-core-5.7 2,775 kB/7,863 kB 35%]               1,706 kB/s 5s[0m[33m55% [4 mysql-server-core-5.7 3,224 kB/7,863 kB 41%]               1,706 kB/s 4s[0m[33m58% [4 mysql-server-core-5.7 3,899 kB/7,863 kB 50%]               1,706 kB/s 4s[0m[33m61% [4 mysql-server-core-5.7 4,676 kB/7,863 kB 59%]               1,706 kB/s 4s[0m[33m64% [4 mysql-server-core-5.7 5,516 kB/7,863 kB 70%]               1,706 kB/s 3s[0m[33m67% [4 mysql-server-core-5.7 6,442 kB/7,863 kB 82%]               1,706 kB/s 2s[0m[33m71% [4 mysql-server-core-5.7 7,437 kB/7,863 kB 95%]               1,706 kB/s 2s[0m[33m75% [Working]                                                     1,706 kB/s 2s[0m                                                                               Get:5 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libevent-core-2.1-6 amd64 2.1.8-stable-4build1 [85.9 kB]
-[33m75% [5 libevent-core-2.1-6 0 B/85.9 kB 0%]                        1,706 kB/s 2s[0m[33m77% [Waiting for headers]                                         1,706 kB/s 2s[0m                                                                               Get:6 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libmecab2 amd64 0.996-6 [257 kB]
-[33m78% [6 libmecab2 57.3 kB/257 kB 22%]                              1,706 kB/s 2s[0m[33m81% [Waiting for headers]                                         1,706 kB/s 1s[0m                                                                               Get:7 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-server-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [3,251 kB]
-[33m81% [7 mysql-server-5.7 267 B/3,251 kB 0%]                        1,706 kB/s 1s[0m[33m84% [7 mysql-server-5.7 880 kB/3,251 kB 27%]                      1,706 kB/s 1s[0m[33m88% [7 mysql-server-5.7 1,873 kB/3,251 kB 58%]                    1,706 kB/s 0s[0m[33m91% [7 mysql-server-5.7 2,643 kB/3,251 kB 81%]                    1,706 kB/s 0s[0m[33m95% [Waiting for headers]                                         1,642 kB/s 0s[0m                                                                               Get:8 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libhtml-template-perl all 2.97-1 [59.0 kB]
-[33m95% [8 libhtml-template-perl 2,591 B/59.0 kB 4%]                  1,642 kB/s 0s[0m[33m98% [Waiting for headers]                                         1,642 kB/s 0s[0m                                                                               Get:9 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-server all 5.7.27-0ubuntu0.19.04.1 [9,956 B]
-[33m98% [9 mysql-server 3,744 B/9,956 B 38%]                          1,642 kB/s 0s[0m[33m100% [Working]                                                    1,642 kB/s 0s[0m                                                                               Fetched 20.9 MB in 13s (1,671 kB/s)
+[33m
+0% [Working][0m
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libaio1 amd64 0.3.111-1 [7,224 B]
+[33m
+0% [1 libaio1 7,224 B/7,224 B 100%][0m[33m
+                                   
+2% [Working][0m[33m
+2% [Waiting for headers][0m
+                        
+Get:2 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-client-core-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [7,106 kB]
+[33m
+2% [2 mysql-client-core-5.7 11.3 kB/7,106 kB 0%][0m[33m
+5% [2 mysql-client-core-5.7 795 kB/7,106 kB 11%][0m[33m
+9% [2 mysql-client-core-5.7 1,871 kB/7,106 kB 26%][0m[33m
+14% [2 mysql-client-core-5.7 3,190 kB/7,106 kB 45%][0m[33m
+18% [2 mysql-client-core-5.7 4,120 kB/7,106 kB 58%][0m[33m
+22% [2 mysql-client-core-5.7 5,187 kB/7,106 kB 73%][0m[33m
+26% [2 mysql-client-core-5.7 6,230 kB/7,106 kB 88%][0m[33m
+                                                   
+32% [Waiting for headers][0m
+                         
+Get:3 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-client-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [2,307 kB]
+[33m
+32% [3 mysql-client-5.7 29.3 kB/2,307 kB 1%][0m[33m
+35% [3 mysql-client-5.7 833 kB/2,307 kB 36%][0m[33m
+38% [3 mysql-client-5.7 1,707 kB/2,307 kB 74%][0m[33m
+                                              
+43% [Working][0m
+             
+Get:4 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-server-core-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [7,863 kB]
+[33m
+43% [4 mysql-server-core-5.7 0 B/7,863 kB 0%][0m[33m
+47% [4 mysql-server-core-5.7 1,100 kB/7,863 kB 14%]               1,706 kB/s 6s[0m[33m
+51% [4 mysql-server-core-5.7 2,150 kB/7,863 kB 27%]               1,706 kB/s 5s[0m[33m
+53% [4 mysql-server-core-5.7 2,775 kB/7,863 kB 35%]               1,706 kB/s 5s[0m[33m
+55% [4 mysql-server-core-5.7 3,224 kB/7,863 kB 41%]               1,706 kB/s 4s[0m[33m
+58% [4 mysql-server-core-5.7 3,899 kB/7,863 kB 50%]               1,706 kB/s 4s[0m[33m
+61% [4 mysql-server-core-5.7 4,676 kB/7,863 kB 59%]               1,706 kB/s 4s[0m[33m
+64% [4 mysql-server-core-5.7 5,516 kB/7,863 kB 70%]               1,706 kB/s 3s[0m[33m
+67% [4 mysql-server-core-5.7 6,442 kB/7,863 kB 82%]               1,706 kB/s 2s[0m[33m
+71% [4 mysql-server-core-5.7 7,437 kB/7,863 kB 95%]               1,706 kB/s 2s[0m[33m
+75% [Working]                                                     1,706 kB/s 2s[0m
+                                                                               
+Get:5 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libevent-core-2.1-6 amd64 2.1.8-stable-4build1 [85.9 kB]
+[33m
+75% [5 libevent-core-2.1-6 0 B/85.9 kB 0%]                        1,706 kB/s 2s[0m[33m
+77% [Waiting for headers]                                         1,706 kB/s 2s[0m
+                                                                               
+Get:6 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libmecab2 amd64 0.996-6 [257 kB]
+[33m
+78% [6 libmecab2 57.3 kB/257 kB 22%]                              1,706 kB/s 2s[0m[33m
+81% [Waiting for headers]                                         1,706 kB/s 1s[0m
+                                                                               
+Get:7 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-server-5.7 amd64 5.7.27-0ubuntu0.19.04.1 [3,251 kB]
+[33m
+81% [7 mysql-server-5.7 267 B/3,251 kB 0%]                        1,706 kB/s 1s[0m[33m
+84% [7 mysql-server-5.7 880 kB/3,251 kB 27%]                      1,706 kB/s 1s[0m[33m
+88% [7 mysql-server-5.7 1,873 kB/3,251 kB 58%]                    1,706 kB/s 0s[0m[33m
+91% [7 mysql-server-5.7 2,643 kB/3,251 kB 81%]                    1,706 kB/s 0s[0m[33m
+95% [Waiting for headers]                                         1,642 kB/s 0s[0m
+                                                                               
+Get:8 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libhtml-template-perl all 2.97-1 [59.0 kB]
+[33m
+95% [8 libhtml-template-perl 2,591 B/59.0 kB 4%]                  1,642 kB/s 0s[0m[33m
+98% [Waiting for headers]                                         1,642 kB/s 0s[0m
+                                                                               
+Get:9 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 mysql-server all 5.7.27-0ubuntu0.19.04.1 [9,956 B]
+[33m
+98% [9 mysql-server 3,744 B/9,956 B 38%]                          1,642 kB/s 0s[0m[33m
+100% [Working]                                                    1,642 kB/s 0s[0m
+                                                                               
+Fetched 20.9 MB in 13s (1,671 kB/s)
 Preconfiguring packages ...
 
 7[0;23r8[1ASelecting previously unselected package libaio1:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 174165 files and directories currently installed.)
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 174165 files and directories currently installed.)
 Preparing to unpack .../0-libaio1_0.3.111-1_amd64.deb ...
 7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  3%][49m[39m [#.........................................................] 8Unpacking libaio1:amd64 (0.3.111-1) ...
 7[24;0f[42m[30mProgress: [  5%][49m[39m [###.......................................................] 8Selecting previously unselected package mysql-client-core-5.7.
@@ -528,9 +942,31 @@ mysql> sudo apt install php libapache2-mod-php php-mysql
     -> 
     -> ^DBye
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo apt install php libapache2-mod-php php-mysql
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
 The following additional packages will be installed:
   libapache2-mod-php7.2 php-common php7.2 php7.2-cli php7.2-common
   php7.2-json php7.2-mysql php7.2-opcache php7.2-readline
@@ -544,22 +980,113 @@ The following NEW packages will be installed:
 Need to get 4,070 kB of archives.
 After this operation, 18.0 MB of additional disk space will be used.
 Do you want to continue? [Y/n] y
-[33m0% [Working][0m[33m0% [Connecting to in.archive.ubuntu.com (103.123.234.254)][0m                                                          Get:1 http://in.archive.ubuntu.com/ubuntu disco/main amd64 php-common all 2:69ubuntu1 [11.8 kB]
-[33m                                                          0% [1 php-common 8,192 B/11.8 kB 69%][0m[33m                                     2% [Working][0m            Get:2 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-common amd64 7.2.19-0ubuntu0.19.04.2 [890 kB]
-[33m2% [2 php7.2-common 13.7 kB/890 kB 2%][0m[33m15% [2 php7.2-common 653 kB/890 kB 73%][0m[33m                                       21% [Working][0m             Get:3 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-json amd64 7.2.19-0ubuntu0.19.04.2 [19.0 kB]
-[33m21% [3 php7.2-json 0 B/19.0 kB 0%][0m[33m                                  23% [Working][0m             Get:4 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-opcache amd64 7.2.19-0ubuntu0.19.04.2 [166 kB]
-[33m23% [4 php7.2-opcache 0 B/166 kB 0%][0m[33m                                    28% [Working][0m             Get:5 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-readline amd64 7.2.19-0ubuntu0.19.04.2 [12.3 kB]
-[33m28% [5 php7.2-readline 0 B/12.3 kB 0%][0m[33m                                      30% [Working][0m             Get:6 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-cli amd64 7.2.19-0ubuntu0.19.04.2 [1,448 kB]
-[33m30% [6 php7.2-cli 13.3 kB/1,448 kB 1%][0m[33m41% [6 php7.2-cli 566 kB/1,448 kB 39%][0m[33m52% [6 php7.2-cli 1,125 kB/1,448 kB 78%][0m[33m                                        60% [Waiting for headers][0m                         Get:7 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 libapache2-mod-php7.2 amd64 7.2.19-0ubuntu0.19.04.2 [1,387 kB]
-[33m60% [7 libapache2-mod-php7.2 3,658 B/1,387 kB 0%][0m[33m73% [7 libapache2-mod-php7.2 645 kB/1,387 kB 46%][0m[33m86% [7 libapache2-mod-php7.2 1,329 kB/1,387 kB 96%][0m[33m                                                   89% [Waiting for headers][0m                         Get:8 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libapache2-mod-php all 2:7.2+69ubuntu1 [2,912 B]
-[33m89% [8 libapache2-mod-php 2,912 B/2,912 B 100%][0m[33m                                               91% [Waiting for headers][0m                         Get:9 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2 all 7.2.19-0ubuntu0.19.04.2 [9,244 B]
-[33m91% [9 php7.2 9,244 B/9,244 B 100%][0m[33m                                   93% [Waiting for headers][0m                         Get:10 http://in.archive.ubuntu.com/ubuntu disco/main amd64 php all 2:7.2+69ubuntu1 [2,780 B]
-[33m93% [10 php 2,134 B/2,780 B 77%][0m[33m                                94% [Working][0m             Get:11 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-mysql amd64 7.2.19-0ubuntu0.19.04.2 [119 kB]
-[33m95% [11 php7.2-mysql 15.3 kB/119 kB 13%][0m[33m                                        98% [Working][0m             Get:12 http://in.archive.ubuntu.com/ubuntu disco/main amd64 php-mysql all 2:7.2+69ubuntu1 [2,008 B]
-[33m98% [12 php-mysql 0 B/2,008 B 0%][0m[33m                                 100% [Working][0m              Fetched 4,070 kB in 4s (1,033 kB/s)
+[33m
+0% [Working][0m[33m
+0% [Connecting to in.archive.ubuntu.com (103.123.234.254)][0m
+                                                          
+Get:1 http://in.archive.ubuntu.com/ubuntu disco/main amd64 php-common all 2:69ubuntu1 [11.8 kB]
+[33m
+                                                          
+0% [1 php-common 8,192 B/11.8 kB 69%][0m[33m
+                                     
+2% [Working][0m
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-common amd64 7.2.19-0ubuntu0.19.04.2 [890 kB]
+[33m
+2% [2 php7.2-common 13.7 kB/890 kB 2%][0m[33m
+15% [2 php7.2-common 653 kB/890 kB 73%][0m[33m
+                                       
+21% [Working][0m
+             
+Get:3 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-json amd64 7.2.19-0ubuntu0.19.04.2 [19.0 kB]
+[33m
+21% [3 php7.2-json 0 B/19.0 kB 0%][0m[33m
+                                  
+23% [Working][0m
+             
+Get:4 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-opcache amd64 7.2.19-0ubuntu0.19.04.2 [166 kB]
+[33m
+23% [4 php7.2-opcache 0 B/166 kB 0%][0m[33m
+                                    
+28% [Working][0m
+             
+Get:5 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-readline amd64 7.2.19-0ubuntu0.19.04.2 [12.3 kB]
+[33m
+28% [5 php7.2-readline 0 B/12.3 kB 0%][0m[33m
+                                      
+30% [Working][0m
+             
+Get:6 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-cli amd64 7.2.19-0ubuntu0.19.04.2 [1,448 kB]
+[33m
+30% [6 php7.2-cli 13.3 kB/1,448 kB 1%][0m[33m
+41% [6 php7.2-cli 566 kB/1,448 kB 39%][0m[33m
+52% [6 php7.2-cli 1,125 kB/1,448 kB 78%][0m[33m
+                                        
+60% [Waiting for headers][0m
+                         
+Get:7 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 libapache2-mod-php7.2 amd64 7.2.19-0ubuntu0.19.04.2 [1,387 kB]
+[33m
+60% [7 libapache2-mod-php7.2 3,658 B/1,387 kB 0%][0m[33m
+73% [7 libapache2-mod-php7.2 645 kB/1,387 kB 46%][0m[33m
+86% [7 libapache2-mod-php7.2 1,329 kB/1,387 kB 96%][0m[33m
+                                                   
+89% [Waiting for headers][0m
+                         
+Get:8 http://in.archive.ubuntu.com/ubuntu disco/main amd64 libapache2-mod-php all 2:7.2+69ubuntu1 [2,912 B]
+[33m
+89% [8 libapache2-mod-php 2,912 B/2,912 B 100%][0m[33m
+                                               
+91% [Waiting for headers][0m
+                         
+Get:9 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2 all 7.2.19-0ubuntu0.19.04.2 [9,244 B]
+[33m
+91% [9 php7.2 9,244 B/9,244 B 100%][0m[33m
+                                   
+93% [Waiting for headers][0m
+                         
+Get:10 http://in.archive.ubuntu.com/ubuntu disco/main amd64 php all 2:7.2+69ubuntu1 [2,780 B]
+[33m
+93% [10 php 2,134 B/2,780 B 77%][0m[33m
+                                
+94% [Working][0m
+             
+Get:11 http://in.archive.ubuntu.com/ubuntu disco-updates/main amd64 php7.2-mysql amd64 7.2.19-0ubuntu0.19.04.2 [119 kB]
+[33m
+95% [11 php7.2-mysql 15.3 kB/119 kB 13%][0m[33m
+                                        
+98% [Working][0m
+             
+Get:12 http://in.archive.ubuntu.com/ubuntu disco/main amd64 php-mysql all 2:7.2+69ubuntu1 [2,008 B]
+[33m
+98% [12 php-mysql 0 B/2,008 B 0%][0m[33m
+                                 
+100% [Working][0m
+              
+Fetched 4,070 kB in 4s (1,033 kB/s)
 
 7[0;22r8[1ASelecting previously unselected package php-common.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 174426 files and directories currently installed.)
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 174426 files and directories currently installed.)
 Preparing to unpack .../00-php-common_2%3a69ubuntu1_all.deb ...
 7[23;0f[42m[30mProgress: [  0%][49m[39m [.........................................................] 87[23;0f[42m[30mProgress: [  2%][49m[39m [#........................................................] 8Unpacking php-common (2:69ubuntu1) ...
 7[23;0f[42m[30mProgress: [  4%][49m[39m [##.......................................................] 8Selecting previously unselected package php7.2-common.
@@ -668,11 +1195,18 @@ apache2_invoke: Enable module php7.2
 7[0;23r8[1A[J]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo vim /etc/apache2/mods-enabled/dir.conf 
 sudo: vim: command not found
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo vim /etc/apache2/mods-enabled/dir.conf [C[1P[1P[1P[1@n[1@a[1@n[1@o
-[?1049h[22;0;0t[1;23r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[21;32H(B[0;7m[ Reading File ](B[m[21;38H(B[0;7m 5 lines ](B[m[H(B[0;7m  GNU nano 3.2          /etc/apache2/mods-enabled/dir.conf                     [1;78H(B[m[22d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify[23d(B[0;7m^X(B[m Exit[23;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell[21d[3d[39;49m(B[m<IfModule mod_dir.c>[4;9HDirectoryIndex index.html index.cgi index.pl index.php index.xhtml ind$[5;1H</IfModule>[7d[36m# vim: syntax=apache ts=4 sw=4 sts=4 sr noet[3d[39m(B[m[?12l[?25h[?25l[21d[J[23;79H[?12l[?25h[23;1H[?1049l[23;0;0t[?1l>]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ y
+[?1049h[22;0;0t[1;23r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[21;32H(B[0;7m[ Reading File ](B[m[21;38H(B[0;7m 5 lines ](B[m[H(B[0;7m  GNU nano 3.2          /etc/apache2/mods-enabled/dir.conf                     [1;78H(B[m
+[22d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify
+[23d(B[0;7m^X(B[m Exit[23;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell
+[21d[3d[39;49m(B[m<IfModule mod_dir.c>[4;9HDirectoryIndex index.html index.cgi index.pl index.php index.xhtml ind$[5;1H</IfModule>
+[7d[36m# vim: syntax=apache ts=4 sw=4 sts=4 sr noet
+[3d[39m(B[m[?12l[?25h[?25l[21d[J[23;79H[?12l[?25h[23;1H[?1049l[23;0;0t
+[?1l>]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ y
 y: command not found
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo systemctl restart apache2
 ]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ sudo systemctl restart apache2[C[1P[1P[1P apache2[1P[1P[1P[1P[C[1P apache2[C apache2s apache2t apache2a apache2t apache2u apache2s apache2
-[?1h=[0;1;32m●[0m apache2.service - The Apache HTTP Server[m
+[?1h=
+[0;1;32m●[0m apache2.service - The Apache HTTP Server[m
    Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset:[m
    Active: [0;1;32mactive (running)[0m since Sat 2019-09-21 13:28:16 IST; 14s ago[m
      Docs: https://httpd.apache.org/docs/2.4/[m
@@ -831,8 +1365,10 @@ Sep 21 13:28:16 rithu apachectl[17270]: AH00558: apache2: Could not reliably d[
 Sep 21 13:28:16 rithu systemd[1]: Started The Apache HTTP Server.[m
 [1m~[0m
 [1m~[0m
-[7mlines 1-19/19 (END)[27m[K[K[?1l>]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ apt search php-m|less
-[?1049h[22;0;0t[?1h=
+[7mlines 1-19/19 (END)[27m[K
+[K[?1l>]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ apt search php-m|less
+[?1049h[22;0;0t[?1h=
+
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
 
 Sorting...
@@ -856,7 +1392,8 @@ php-mailparse/disco 3.0.3~dev20181093+2.1.7~dev20160128-1 amd64
   Email message manipulation for PHP
 
 php-mapi/disco 8.7.0-2ubuntu2 amd64
-:[K[K[?1l>[?1049l[23;0;0t]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ exit
+:[K
+[K[?1l>[?1049l[23;0;0t]0;rithumaria@rithu: ~[01;32mrithumaria@rithu[00m:[01;34m~[00m$ exit
 exit
 
 Script done on 2019-09-21 13:30:02+05:30 [COMMAND_EXIT_CODE="0"]
